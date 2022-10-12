@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "address": "123 N Main St",
+        "price": 12345,
+        "imageURL": "https://www.gannett-cdn.com/-mm-/3ac80596a48e8e09794ce772ebc47d4d0e321c5c/c=0-179-3638-2234/local/-/media/2016/04/28/Phoenix/Phoenix/635974507604646986-Tempe---Farmer-Goodwin-House-2-.jpg"
+    },
+    {
+        "id": 2,
+        "address": "5423 E Round Ln",
+        "price": 29048,
+        "imageURL": "https://www.bhg.com/thmb/a-NwJnw4qLipa1EWsJThQyc7Bik=/1280x1280/smart/filters:no_upscale():focal(899x639:901x641)/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg"
+    },
+    {
+        "id": 3,
+        "address": "934 S Off Ave",
+        "price": 76537,
+        "imageURL": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg"
+    }
+]
